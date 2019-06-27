@@ -8,3 +8,21 @@
 
 **Link(s) to work**
 1. https://github.com/wev112233/hello-world2/pull/1
+
+### Day 2: June 26th , Wednesday
+
+**Today's Progress**: Day2 Reattempting Smallest Common Multiple by Sequence challenge in freeCodeCamp's Intermediate Algorithms Scripting...
+
+**Thoughts** Trying to find my way arround algorithms again. I have not been coding for nine months...It has been too long. I have forgotten some things that I learnt. 
+
+**Link(s) to work**
+1. https://codepen.io/wev112233/pen/wYebzM
+
+### Day 3: June 27th , Thursday
+
+**Today's Progress**: Finished 2 challenges on FreeCodeCamp. Learnt data types again and practiced them in javascript
+
+**Thoughts** I have to relearn some fundamentals and go through challenges that I have done before in order to tackle the Smallest Common Multiple challenge
+
+**Link(s) to work**
+1. https://codepen.io/wev112233/pen/eweBLq
