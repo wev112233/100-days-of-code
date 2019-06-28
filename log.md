@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/wev112233/pen/eweBLq
+
+### Day 4: June 28th , Friday
+
+**Today's Progress**: Finished 15 challenges in Algorithms on FreeCodeCamp. 
+
+**Thoughts** Good to go through the fundamentals again
+
+**Link(s) to work**
+1. 
