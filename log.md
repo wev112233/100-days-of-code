@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've re-learnt github basics by creating hello-world2 repository, made a branch, made and commit changes, made a pull request, and merged to the master branch.
 
-**Thoughts** I feel good on day 1 of the challenge
+**Thoughts** I feel good on day 1 of the challenge.
 
 **Link(s) to work**
 1. https://github.com/wev112233/hello-world2/pull/1
@@ -20,9 +20,9 @@
 
 ### Day 3: June 27th , Thursday
 
-**Today's Progress**: Finished 2 challenges on FreeCodeCamp. Learnt data types again and practiced them in javascript
+**Today's Progress**: Finished 2 challenges on FreeCodeCamp. Learnt data types again and practiced them in javascript.
 
-**Thoughts** I have to relearn some fundamentals and go through challenges that I have done before in order to tackle the Smallest Common Multiple challenge
+**Thoughts** I have to relearn some fundamentals and go through challenges that I have done before in order to tackle the Smallest Common Multiple challenge.
 
 **Link(s) to work**
 1. https://codepen.io/wev112233/pen/eweBLq
@@ -31,7 +31,17 @@
 
 **Today's Progress**: Finished 15 challenges in Algorithms on FreeCodeCamp. 
 
-**Thoughts** Good to go through the fundamentals again
+**Thoughts** Good to go through the fundamentals again.
 
 **Link(s) to work**
 1. 
+
+### Day 5: June 29th , Friday
+
+**Today's Progress**: Finished 7 challenges in Algorithms on FreeCodeCamp. 
+
+**Thoughts** Really hard to start coding today. I had an upset stomach and vomited. Glad to not have missed today.
+
+**Link(s) to work**
+1. 
+
