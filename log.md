@@ -36,7 +36,7 @@
 **Link(s) to work**
 1. 
 
-### Day 5: June 29th , Friday
+### Day 5: June 29th , Saturday
 
 **Today's Progress**: Finished 7 challenges in Algorithms on FreeCodeCamp. 
 
