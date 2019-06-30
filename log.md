@@ -45,3 +45,12 @@
 **Link(s) to work**
 1. 
 
+### Day 6: June 30th , Sunday
+
+**Today's Progress**: Finished 13 challenges in Algorithms on FreeCodeCamp. 
+
+**Thoughts** Hard to complete the hour with family members requiring my attention. Glad to still be able to code.
+
+**Link(s) to work**
+1. 
+
