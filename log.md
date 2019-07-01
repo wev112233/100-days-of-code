@@ -54,3 +54,11 @@
 **Link(s) to work**
 1. 
 
+### Day 7: July 1st , Monday
+
+**Today's Progress**: Finished 12 challenges in Algorithms on FreeCodeCamp. 
+
+**Thoughts** Was easy to code today. Happy to re-learn functions.
+
+**Link(s) to work**
+1. 
