@@ -62,3 +62,12 @@
 
 **Link(s) to work**
 1. 
+
+### Day 8: July 2nd , Tuesday
+
+**Today's Progress**: Completed 7 challenges on functions on FreeCodeCamp. 
+
+**Thoughts** Awesome!
+
+**Link(s) to work**
+1. 
