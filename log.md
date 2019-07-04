@@ -89,3 +89,13 @@
 
 **Link(s) to work**
 1. 
+
+
+### Day 10: July 4th , Thursday
+
+**Today's Progress**: Completed 10 challenges on if, else, and switch on FreeCodeCamp. 
+
+**Thoughts** Had a hard time coding as I spent the night drinking kava at my cousin's place. Glad to complete my hour.
+
+**Link(s) to work**
+1. 
