@@ -99,3 +99,13 @@
 
 **Link(s) to work**
 1. 
+
+
+### Day 11: July 5th , Friday
+
+**Today's Progress**: Completed 6 challenges on boolean, counting cards, and objects on FreeCodeCamp. 
+
+**Thoughts** I found counting cards challenge a bit hard.
+
+**Link(s) to work**
+1. 
